@@ -1,0 +1,12 @@
+- make a pause/seek in the player
+- make a keyboard stuff to move in the record, it will help the syncup
+- make webvrrecorder.html and gamepadrecorder.html more homogeneous
+
+- file are getting huge... how to do better ?
+  - store only delta
+  - store in binary
+- LATER save in binary - should i record in json ?
+  - large files => slow download + huge memory usage
+  - what are the alternatives ? to save in binary
+  - what about after you did json ?
+  - yeah no emergency
